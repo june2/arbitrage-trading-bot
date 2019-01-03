@@ -1,0 +1,3 @@
+{"_id":"BTC","data":["binance/BTC","coinone/BTC","bitfinex/BTC","upbit/BTC"]}
+{"_id":"KRW","data":["bithumb","coinbit","coinone","upbit"]}
+{"_id":"USD","data":["binance","bitfinex","gateio"]}

@@ -1,0 +1,9 @@
+.stripe {  
+  background: rgba(0, 0, 0, 0.05);
+}
+.border-double {    
+  border-bottom-style: double;
+}
+.date {    
+  font-size: 11px;
+}
