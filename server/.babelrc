@@ -1,0 +1,17 @@
+{
+  "presets": [
+    "es2015",
+    "stage-2"
+  ],
+  "plugins": [
+    [
+      "babel-plugin-root-import",
+      {
+        "rootPathPrefix": "~",
+        "rootPathSuffix": ""
+      }
+    ]
+  ],
+  "sourceMaps": true,
+  "retainLines": true
+}
